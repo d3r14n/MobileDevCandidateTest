@@ -1,0 +1,7 @@
+{
+  "name": "MobileDevCandidateTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
